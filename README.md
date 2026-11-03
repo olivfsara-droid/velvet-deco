@@ -16,3 +16,7 @@ Velvet Deco é um jogo simples de decoração de ambientes, criado para permitir
 - Mais opções de decoração
 - Personalização dos elementos
 - Mecânicas de jogo com JavaScript
+
+## Acesse o projeto
+
+Confira o Velvet Deco publicado: [Velvet Deco](https://olivfsara-droid.github.io/velvet-deco/)
