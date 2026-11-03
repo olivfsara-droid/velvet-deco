@@ -6,3 +6,51 @@ Paleta de cores - Velvet Deco
 #F1EAE3 - Marfim suave: fundos claros
 #B8A69B - Taupe: detalhes e contrastes
 */
+/* Tipografia */
+
+body {
+    font-family: 'Lora', serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Cormorant Garamond', serif;
+}
+/* Organização geral */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+/* Cabeçalho */
+
+header {
+    background-color: #21191C;
+    color: #F1EAE3;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+header h1 {
+    color: #F1EAE3;
+    font-size: 48px;
+    margin: 0 0 10px;
+}
+
+header p {
+    margin-bottom: 25px;
+}
+
+nav a {
+    color: #F1EAE3;
+    text-decoration: none;
+    margin: 0 12px;
+}
