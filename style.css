@@ -54,3 +54,33 @@ nav a {
     text-decoration: none;
     margin: 0 12px;
 }
+/* Seções */
+
+section {
+    margin-bottom: 40px;
+    padding: 25px;
+    border-bottom: 1px solid #B8A69B;
+}
+
+section h2 {
+    color: #4A1728;
+    font-size: 32px;
+    margin-top: 0;
+}
+
+section p {
+    line-height: 1.8;
+}
+/* Rodapé */
+
+footer {
+    background-color: #21191C;
+    color: #F1EAE3;
+    text-align: center;
+    padding: 25px 20px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
