@@ -10,21 +10,8 @@ Paleta de cores - Velvet Deco
 
 body {
     font-family: 'Lora', serif;
-}
-
-h1, h2, h3 {
-    font-family: 'Cormorant Garamond', serif;
-}
-/* Organização geral */
-
-* {
-    box-sizing: border-box;
-}
-
-body {
     margin: 0;
 }
-
 main {
     max-width: 1000px;
     margin: 0 auto;
@@ -49,10 +36,19 @@ header p {
     margin-bottom: 25px;
 }
 
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px 24px;
+}
+
 nav a {
     color: #F1EAE3;
     text-decoration: none;
-    margin: 0 12px;
+}
+nav a:hover {
+    text-decoration: underline;
 }
 /* Seções */
 
